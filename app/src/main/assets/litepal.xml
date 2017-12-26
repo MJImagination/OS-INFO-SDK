@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="OSInfoSDK" ></dbname>
+    <version value="12"></version>
+    <list>
+        <mapping class="entity.OsInfo"></mapping>
+        <mapping class="entity.History"></mapping>
+    </list>
+</litepal>

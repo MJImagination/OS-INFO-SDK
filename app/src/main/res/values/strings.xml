@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OS-INFO-SDK</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">历史</string>
+    <string name="title_notifications">其他</string>
+    <string name="swipe_to_refresh">正在刷新</string>
+</resources>
